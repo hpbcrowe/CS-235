@@ -1,0 +1,56 @@
+﻿  assignment03.cpp
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\monica\onedrive\cs235ben\assign03\queue.h(95): note: see reference to class template instantiation 'custom::queue<T>' being compiled
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(83): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(102): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(123): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(151): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(185): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(207): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(221): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(239): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(258): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(274): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  stock.cpp
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\monica\onedrive\cs235ben\assign03\queue.h(95): note: see reference to class template instantiation 'custom::queue<T>' being compiled
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(69): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(83): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(102): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(123): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(151): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(185): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(207): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(221): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(239): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(258): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\queue.h(274): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(37): error C2065: 'queue': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(37): error C2275: 'Transaction': illegal use of this type as an expression
+  c:\users\monica\onedrive\cs235ben\assign03\stock.h(18): note: see declaration of 'Transaction'
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(37): error C2065: 'history': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(50): error C2065: 'history': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(50): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Transaction'
+  c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(50): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(55): error C2065: 'history': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(59): error C2065: 'history': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(62): error C2065: 'queue': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(62): error C2065: 'transaction': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(62): error C2065: 'sellCopy': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(62): error C2065: 'history': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(63): error C2065: 'sellCopy': undeclared identifier
+c:\users\monica\onedrive\cs235ben\assign03\stock.cpp(65): error C2065: 'sellCopy': undeclared identifier
+  Generating Code...
