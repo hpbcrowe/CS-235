@@ -1,0 +1,47 @@
+###############################################################
+# Program:
+#     Assignment 05, SET
+#     Brother Kirby, CS235
+# Author:
+#     Ladell Owens, Ben Crowe
+# Summary:
+#     This is the program to implement a set, a data structure
+#      where every item is unique, along with overloaded operators,
+#       union, difference and intersection, it then uses the set to
+#     play the game go fish.
+# Time:
+#  Pair Programming: 2hours   
+#  Ladell: 
+#  Ben: 12 hours
+#
+# The most difficult part:
+#  Ladell:
+# 
+#  Ben: The most difficult part was getting it to pass testBed 4
+#       I worked on it for a while with the tutor and we felt like
+#       it looked exactly like the psuedocode for the sorted array
+#       I could get it to work on Visual studio but not in the terminal
+#       Ladell was able to get it to work  using two for loops.
+###############################################################
+
+##############################################################
+# The main rule
+##############################################################
+a.out: assignment05.o goFish.o card.o
+	g++ -o a.out assignment05.o goFish.o card.o -std=c++11
+	tar -cf assignment05.tar *.h *.cpp makefile
+
+##############################################################
+# The individual components
+#      assignment05.o : the driver program
+#      goFish.o       : the logic for the goFish game
+#      card.o         : a single playing card
+##############################################################
+assignment05.o: set.h goFish.h assignment05.cpp
+	g++ -c assignment05.cpp -std=c++11
+
+goFish.o: set.h goFish.h goFish.cpp card.h
+	g++ -c goFish.cpp -std=c++11
+
+card.o: card.h card.cpp
+	g++ -c card.cpp  -std=c++11

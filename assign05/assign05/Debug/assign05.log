@@ -1,0 +1,30 @@
+﻿  assignment05.cpp
+c:\users\monica\onedrive\cs235ben\assign05\set.h(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\monica\onedrive\cs235ben\assign05\set.h(87): note: see reference to class template instantiation 'custom::set<T>' being compiled
+c:\users\monica\onedrive\cs235ben\assign05\set.h(43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(278): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(297): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(311): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(378): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(421): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(451): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  goFish.cpp
+c:\users\monica\onedrive\cs235ben\assign05\set.h(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\monica\onedrive\cs235ben\assign05\set.h(87): note: see reference to class template instantiation 'custom::set<T>' being compiled
+c:\users\monica\onedrive\cs235ben\assign05\set.h(43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(278): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(297): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(311): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(378): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(421): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\monica\onedrive\cs235ben\assign05\set.h(451): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  assign05.vcxproj -> C:\Users\Monica\OneDrive\CS235ben\assign05\Debug\assign05.exe
